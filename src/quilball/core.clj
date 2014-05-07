@@ -7,4 +7,4 @@
   :title "Sup"
   :setup bouncing/setup
   :draw bouncing/draw
-  :size [500 500])
+  :size [500 450])
